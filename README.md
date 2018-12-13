@@ -56,7 +56,6 @@ You can use this module
     })()
  ```
 
-
 ## License
 
   [MIT](LICENSE)
